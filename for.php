@@ -1,0 +1,11 @@
+<?php
+echo"Amit<br/>";
+$a=0;
+$b=0;
+for($i=0;$i<10;$i++)
+{
+$a+=10;
+$b+=5;
+}
+echo"$a<br/>";
+echo"$b";
